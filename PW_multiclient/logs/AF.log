@@ -1,0 +1,5 @@
+Angelica File Module Error Log
+Created(or opened) on 14/09/2018 11:38:39
+
+[11:38:39.737] AFilePackGame::Open(), Can not open file [C:\Users\swordz\Documents\NetBeansProjects\PW_multiclient\configs.pck]
+[11:38:39.738] AFilePackMan::OpenFilePackageInGame(), Can not open package [configs.pck]
